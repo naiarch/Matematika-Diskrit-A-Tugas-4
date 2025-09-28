@@ -33,13 +33,18 @@ Dataset makanan disimpan pada `makanan.csv`, kemudian dipakai untuk perhitungan 
 - Matplotlib  
 
 ## 📂 Struktur Repository
-.
 ├── Tugas_4_24083010047_Siti_Naia_Hesti_Rachmawati_Matdis_A.ipynb # Notebook utama
+
 ├── makanan.csv # Dataset makanan
+
 ├── hasil_simulasi.csv # Ringkasan hasil simulasi
+
 ├── resp_pilih_names.csv # Jadwal makanan (nama)
+
 ├── best_sample_full_schedule.csv # Jadwal makanan terbaik
+
 └── resp_sehat_matrix.csv # Matriks kesehatan per bin sisa
+
 
 
 ## 🚀 Cara Menjalankan
